@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[thi:home|Door43 (thi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-thi|d43-thi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-thi/archive/master.zip|d43-thi.zip]]
+
+**Recent Changes**
+{{changes>ns = thi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/thi|Ethnologue data]]
+
